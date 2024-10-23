@@ -1,8 +1,8 @@
-# [Name] - Vision 15 Days of Code Log
+# Dhruv - Vision 15 Days of Code Log
 
 ### Day 1
 
-[Month] [Date], 2022
+23 , 10 , 2024
 
 - Question 1
   [Submission Link]
