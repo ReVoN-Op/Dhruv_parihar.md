@@ -9,3 +9,6 @@
 - created a new repository on github and pushed my code to it
 - solved contest on codechef did 5 questions
 - learned about css like selectors aligner and color adding feature
+
+### Day 2
+24.10.24
