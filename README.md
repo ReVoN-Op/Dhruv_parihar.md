@@ -4,10 +4,8 @@
 
 23 , 10 , 2024
 
-- Question 1
-  [Submission Link]
-- Question 2
-  [Submission Link]
 - learned about github and git and various commands like cd ls clone etc..
 - practiced using git commands in terminal
 - created a new repository on github and pushed my code to it
+- solved contest on codechef did 5 questions
+- learned about css like selectors aligner and color adding feature
