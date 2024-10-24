@@ -12,3 +12,11 @@
 
 ### Day 2
 24.10.24
+- solved buying lemonade on codeforces 
+- solved 2 problems on leetcode
+- gave contest on codeforces
+- learned more about css.
+
+ ### Day 3
+ 25.10.24
+  
