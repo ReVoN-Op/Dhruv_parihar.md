@@ -19,4 +19,11 @@
 
  ### Day 3
  25.10.24
+ - gave contest on cf solved 2 ques
+ - watched onshot of css from apna college
+ - solved 1 question from leetcode
+
+ ### day 4
+ 26.10.24
+ 
   
