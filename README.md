@@ -21,6 +21,7 @@
  25.10.24
  - learned basics about kotlin
  - practised basic questions using kotlin
+ - solved b and c from previous contest of cf
 
  ### day 4
  26.10.24
