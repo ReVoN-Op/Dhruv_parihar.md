@@ -28,20 +28,21 @@
   - gave contest on cf solved 2 ques
  - watched onshot of css from apna college
  - solved 1 question from leetcode
- 
- ### day 5
-27.10.24
-- solved 2 questions on cf
-- gave contest on cf
-- watched video on graph and tree from luv cp
+  
+  ### day 5
+ 27.10.24
+  - solved 2 questions on cf
+  - gave contest on cf
+  - watched video on graph and tree from luv cp
 
   ### day 6
   28.10.24
   - revised concepts on SQL.
   - practised SQL question from assignment.
 
-   ### Day 7
-29.10.24
-   ### Day 8
-  30.10.24
+  ### Day 7
+   29.10.24
+   
+  ### Day 8
+   30.10.24
   
