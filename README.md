@@ -29,7 +29,7 @@
  - watched onshot of css from apna college
  - solved 1 question from leetcode
  
- ###day 5
+ ### day 5
 27.10.24
 - solved 2 questions on cf
 - gave contest on cf
