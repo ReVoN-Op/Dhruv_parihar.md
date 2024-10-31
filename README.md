@@ -45,4 +45,5 @@
    
   ### Day 8
    30.10.24
+   - gave codechef cnt solved 5 ques
   
