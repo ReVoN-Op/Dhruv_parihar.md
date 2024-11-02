@@ -59,5 +59,10 @@
     
   ### Day 11
   2.11.24
-  
+  - solved 2 questions on leetcode of strings
+  - solved https://codeforces.com/contest/1834/problem/A
+  - gave contest on cf
+  - learned various tricks from cp handbook
+  - started videos of bitmasking from luv cp
+
   
