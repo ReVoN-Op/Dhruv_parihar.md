@@ -46,4 +46,18 @@
   ### Day 8
    30.10.24
    - gave codechef cnt solved 5 ques
+     
+  ### Day 9
+  31.10.24
+  - solved E from previous contest on cchef.
+    
+  ### Day 10
+  1.11.24
+  - gave contest on cf solved 2 ques
+  - solved 1 question on cf(cal func)
+  - started a book on cp(cp handbook)
+    
+  ### Day 11
+  2.11.24
+  
   
