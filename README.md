@@ -79,7 +79,8 @@
   - learned merge sort
   ### Day 15
   6.11.24
-  - 
+  - solved question in which we have to add 2 nos represented as linked list
+  - cant gave c chef contest due to some personal work 
   ### Day 16
   7.11.12
   - solved cchef contest 
