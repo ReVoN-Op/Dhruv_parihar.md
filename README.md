@@ -42,7 +42,7 @@
 
   ### Day 7
    29.10.24
-   
+   - cant solved anything due to festival work at home
   ### Day 8
    30.10.24
    - gave codechef cnt solved 5 ques
@@ -63,6 +63,25 @@
   - solved https://codeforces.com/contest/1834/problem/A
   - gave contest on cf
   - learned various tricks from cp handbook
-  - started videos of bitmasking from luv cp
+  - started videos of bitmasking from luv c
+
+  ### Day 12
+  3.11.24
+  - solved 3 questions on leetcode
+  ### Day 13
+  4.11.24
+  - learned about min max heap
+  - heap sort
+  - insertion and deletion in heap
+  ### Day 14
+  5.11.24
+  - learned about more about sql (triggers)
+  - learned merge sort
+  ### Day 15
+  6.11.24
+  - 
+  ### Day 16
+  7.11.12
+  - solved cchef contest 
 
   
