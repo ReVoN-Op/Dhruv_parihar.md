@@ -83,6 +83,7 @@
   - cant gave c chef contest due to some personal work 
   ### Day 16
   7.11.12
-  - solved cchef contest 
+  - solved cchef contest
+  - learned more in css (made amazon nav bar using it)
 
   
